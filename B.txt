@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 ########Solution ##################
 
 
+=======
+Login 
+75%
+###########StacH############## It wiil temporary store the uncomiting changes without commit them.
+>>>>>>> Stashed changes
 Iam a java developer
 Premchand Reddy
 From Berahampur
